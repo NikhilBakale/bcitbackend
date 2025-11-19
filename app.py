@@ -33,7 +33,7 @@ CORS(app, origins=[
     "http://localhost:5173",
     "http://localhost:3000", 
     "https://frontend-ten-eta-28.vercel.app",
-    "https://*.vercel.app"
+    "https://*.vercel.app",
     "https://frontend-3scf.vercel.app"
 ]) # Enable CORS for React frontend
 
